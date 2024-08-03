@@ -1,0 +1,17 @@
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\bin\Debug\net8.0-windows\Devoir3.exe
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\bin\Debug\net8.0-windows\Devoir3.deps.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\bin\Debug\net8.0-windows\Devoir3.runtimeconfig.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\bin\Debug\net8.0-windows\Devoir3.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\bin\Debug\net8.0-windows\Devoir3.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.MazeForm.resources
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.csproj.GenerateResource.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.AssemblyInfoInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.AssemblyInfo.cs
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.csproj.CoreCompileInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.sourcelink.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\refint\Devoir3.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\Devoir3.genruntimeconfig.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir3\obj\Debug\net8.0-windows\ref\Devoir3.dll
